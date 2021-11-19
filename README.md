@@ -2,8 +2,9 @@
 [Jamshid Rakhimov](https://pages.github.com/) Vuejs devoloper.
 
 **Vuejs qisqa qo'llanma**
-v-text
 
-v-html
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
 
