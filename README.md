@@ -2,5 +2,8 @@
 [Jamshid Rakhimov](https://pages.github.com/) Vuejs devoloper.
 
 **Vuejs qisqa qo'llanma**
+v-text
+
+v-html
 
 
