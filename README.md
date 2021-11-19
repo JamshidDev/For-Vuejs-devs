@@ -1,2 +1,3 @@
 # For-Vuejs-devs
-Vuejs  short hands
+by Jamshid Rakhimov
+
