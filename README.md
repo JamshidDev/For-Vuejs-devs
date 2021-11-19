@@ -1,5 +1,5 @@
 # For-Vuejs-devs
-by Jamshid Rakhimov
+> [Jamshid Rakhimov](https://pages.github.com/) Vuejs devoloper
 > Text that is a quote
-> [Jamshid Rakhimov](https://pages.github.com/).
+
 
